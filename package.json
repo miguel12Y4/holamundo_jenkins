@@ -1,0 +1,20 @@
+{
+  "name": "holamundo_jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel12Y4/holamundo_jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel12Y4/holamundo_jenkins/issues"
+  },
+  "homepage": "https://github.com/miguel12Y4/holamundo_jenkins#readme"
+}
